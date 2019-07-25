@@ -1,0 +1,773 @@
+#anquan{
+    height: 1420px;
+    width:1368px;
+    margin: auto;
+}
+
+
+/*--------------header--------------*/
+#anquan .header{
+    height: 106px;
+    width: 100%;
+    /* background: red; */
+}
+#anquan .header .headerbox{
+    height: 100%;
+    border-bottom: 2px solid #ccc;
+    width: 1230px;
+    margin: auto;
+}
+#anquan .header .headerbox .headerbox1{
+    height: 100%;
+    width: 33%;
+    border-right: 2px solid #ccc;
+    
+    float: left;
+}
+#anquan .header .headerbox .headerbox2{
+    height: 100%;
+    width: 33%;
+    border-right: 2px solid #ccc;
+    float: left;
+}
+#anquan .header .headerbox .headerbox3{
+    height: 100%;
+    width: 33%;
+    float: left;
+}
+#anquan .header .headerbox .headerbox1 .hsp1{
+    background: url(../images/360/3.png);
+    width: 60px;
+    height: 64px;
+    display: block;
+    margin-left: 70px;
+    margin-top: 20px;
+    float: left;
+}
+#anquan .header .headerbox .headerbox2 .hsp2{
+    background: url(../images/360/3.png);
+    width: 143px;
+    height: 64px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 70px;
+    float: left;
+}
+#anquan .header .headerbox .headerbox2 .hsp2{
+    background-position:0px 158px;
+}
+
+#anquan .header .headerbox .headerbox3 .hsp3{
+    background: url(../images/360/3.png);
+    width: 60px;
+    height: 64px;
+    display: block;
+    margin-left: 70px;
+    margin-top: 20px;
+    float: left;
+}
+#anquan .header .headerbox .headerbox3 .hsp3{
+    background-position: 0px 78px;
+}
+#anquan .header .headerbox .hh2{
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 24px;
+}
+#anquan .header .headerbox .hpp{
+    margin-top: 10px;
+    font-size: 12px;
+    color: #999999;
+}
+#anquan .headerbox1:hover{
+    border-bottom: 4px green solid;
+}
+#anquan  .headerbox2:hover{
+    border-bottom: 4px green solid;
+}
+#anquan  .headerbox3:hover{
+    border-bottom: 4px green solid;
+}
+
+
+
+/*--------------nav--------------*/
+
+#anquan .nav{
+    height: 280px;
+    width: 100%;
+    /* background: orange; */
+    position: relative;
+}
+#anquan .nav .nav1{
+    height: 100%;
+    width: 900px;
+    /* background: #000; */
+    position: absolute;
+    left:55px;
+}
+
+#anquan .nav  .nh2{
+    color: green;
+    font-size: 16px;
+    border-left: 3px solid green;
+    margin-top: 20px;
+}
+#anquan .nav .nav1 .nav1box1{
+    width: 290px;
+    height: 210px;
+    float: left;
+    box-shadow:  0 0 10px 0;
+    margin-top: 10px;
+}
+#anquan .nav .nav1 .nav1box2{
+    width: 290px;
+    height: 210px;
+    float: left;
+    margin-left: 10px;
+    box-shadow:  0 0 10px 0;
+    margin-top: 10px;
+
+}
+#anquan .nav .nav1 .nav1box3{
+    width: 290px;
+    height: 210px;
+    margin-left: 10px;
+    margin-top: 10px;
+    box-shadow:  0 0 10px 0;
+    float: left;
+}
+#anquan .nav .nav1 .npp{
+    text-align: center;
+    line-height: 40px;
+    font-size: 18px;
+    color: #333333;
+
+}
+#anquan .nav  .na{
+    position: absolute;
+    right: 0;
+    margin-top: -20px;
+}
+#anquan .nav .nav2{
+    width: 346px;
+    height: 100%;
+    /* background: #ccc; */
+    position: absolute;
+    right: 50px;
+    overflow: hidden;
+}
+
+
+#anquan .nav .nav2 .nav2box1{
+    width: 104px;
+    height: 104px;
+    border: 1px solid #e5e5e5;
+    margin-top: 10px;
+    float: left;
+}
+#anquan .nav .nav2 .nav2box2{
+    width: 104px;
+    height: 104px;
+    border: 1px solid #e5e5e5;
+    margin-top: 10px;
+    float: left;
+}
+#anquan .nav .nav2 .nav2box3{
+    width: 104px;
+    margin-top: 10px;
+    height: 104px;
+    border: 1px solid #e5e5e5;
+    float: left;
+}
+#anquan .nav .nav2 .nav2box4{
+    width: 104px;
+    height: 104px;
+    border: 1px solid #e5e5e5;
+    float: left;
+}
+#anquan .nav .nav2 .nav2box5{
+    width: 104px;
+    height: 104px;
+    border: 1px solid #e5e5e5;
+    float: left;
+}
+#anquan .nav .nav2 .nav2box6{
+    width: 104px;
+    height: 104px;
+    border: 1px solid #e5e5e5;
+    float: left;
+}
+#anquan .nav .nav2 .nav2box1 .nsp1{
+    background: url(../images/360/1.png);
+    width: 26px;
+    height: 26px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#anquan .nav .nav2 .nav2box1 .nsp1{
+    background-position: -24px 0px;
+}
+#anquan .nav .nav2 .nav2box2 .nsp1{
+    background: url(../images/360/1.png);
+    width: 26px;
+    height: 26px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#anquan .nav .nav2 .nav2box2 .nsp1{
+    background-position: -48px 0px;
+}
+#anquan .nav .nav2 .nav2box3 .nsp1{
+    background: url(../images/360/1.png);
+    width: 26px;
+    height: 26px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#anquan .nav .nav2 .nav2box3 .nsp1{
+    background-position: -71px 0px;
+}
+#anquan .nav .nav2 .nav2box4 .nsp1{
+    background: url(../images/360/1.png);
+    width: 26px;
+    height: 26px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#anquan .nav .nav2 .nav2box4 .nsp1{
+    background-position: 52px 0px;
+}
+#anquan .nav .nav2 .nav2box5 .nsp1{
+    background: url(../images/360/1.png);
+    width: 26px;
+    height: 26px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#anquan .nav .nav2 .nav2box5 .nsp1{
+    background-position: 26px 0px;
+}
+#anquan .nav .nav2 .nav2box6 .nsp1{
+    background: url(../images/360/1.png);
+    width: 26px;
+    height: 26px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#anquan .nav .nav2 .nav2box6 .nsp1{
+    background-position:2px 0px;
+}
+#anquan .nav .nav2 .npp2{
+    text-align: center;
+}
+#anquan .nav .nav2 .nca1{
+    border: 1px solid #e5e5e5;
+    font-size: 12px;
+    margin-left: 25px;
+    width: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+/*--------------banner--------------*/
+
+#anquan .banner{
+    width: 100%;
+    height: 212px;
+    /* background: yellow; */
+
+    
+}
+#anquan .banner .bh2{
+    color: green;
+    font-size: 16px;
+    border-left: 3px solid green;
+    margin-top: 20px;
+    margin-left: 55px;
+}
+#anquan .banner .babox{
+    width: 1244px;
+    height: 144px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 20px;
+}
+#anquan .banner .babox .babox1{
+    width: 390px;
+    height: 100%;
+    border: #e5e5e5 1px solid;
+    float: left;
+    margin-left: 15px;
+}
+#anquan .banner .babox .babox2{
+    width: 390px;
+    height: 100%;
+    border: #e5e5e5 1px solid;
+    float: left;
+    margin-left: 15px;
+}
+#anquan .banner .babox .babox3{
+    width: 390px;
+    margin-left: 15px;
+    height: 100%;
+    border: #e5e5e5 1px solid;
+    float: left;
+}
+#anquan .banner .babox .babox1 .bsp1{
+    width: 97px; height: 91px; 
+    display: block;
+    float: left;
+    margin-top: 22px;
+    margin-left: 22px;
+    background: url(../images/360/2.png);
+}
+#anquan .banner .babox .babox2 .bsp1{
+    width: 100px; height: 100px;
+    display: block;
+    margin-top: 22px;
+    float: left;
+    margin-left: 22px;
+    background: url(../images/360/2.png);
+}
+#anquan .banner .babox .babox2 .bsp1{
+    background-position:  -0px -90px;
+}
+#anquan .banner .babox .babox3 .bsp1{
+    width: 100px; height: 100px;
+    margin-top: 22px;
+    margin-left: 22px;
+    float: left;
+    display: block;
+    background: url(../images/360/2.png);
+}
+#anquan .banner .babox .babox3 .bsp1{
+    background-position: -0px -190px;
+}
+#anquan .banner .babox .bh3{
+    font-size: 16px;
+    margin-top: 30px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+#anquan .banner .babox .bp1{
+    margin-left: 150px;
+    font-size: 12px;
+    line-height: 20px;
+    color: #8a8a8a;
+    white-space: pre-line;
+    margin-top: 20px;
+} 
+/*--------------footer--------------*/
+
+#anquan .footer{
+    height: 822px;
+    width: 100%;
+    /* background: green; */
+    position: relative;
+} 
+#anquan .footer .left{
+    width: 600px;
+    height: 100%;
+    /* background: skyblue; */
+    position: absolute;
+    left: 60px;
+}
+
+#anquan .footer .left .flh2{
+    color: green;
+    font-size: 16px;
+    border-left: 3px solid green;
+    margin-top: 20px;
+}
+#anquan .footer .right .frh2{
+    color: green;
+    font-size: 16px;
+    border-left: 3px solid green;
+    margin-top: 20px;
+}
+#anquan .footer .left .flbox{
+    width: 100%;
+    height: 566px;
+    /* border:1px solid rebeccapurple; */
+    margin-top: 70px;
+    overflow: hidden;
+}
+#anquan .footer .left .flbox div{
+    width: 298px;
+    height: 144px;
+    float: left;
+    border: 1px solid #e5e5e5;
+}
+#anquan .footer .left .flbox1 .flsp1{
+    width: 60px; height: 60px;
+    display: block;
+    background: url(../images/360/4.png);
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+#anquan .footer .left .flbox2 .flsp1{
+    width: 60px; height: 60px;
+    display: block;
+    background: url(../images/360/4.png);
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+#anquan .footer .left .flbox2 .flsp1{
+    background-position: -0px -60px; 
+}
+#anquan .footer .left .flbox3 .flsp1{
+    width: 60px; height: 60px;
+    display: block;
+    background: url(../images/360/4.png);
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+#anquan .footer .left .flbox3 .flsp1{
+    background-position: -0px -120px; 
+}
+#anquan .footer .left .flbox4 .flsp1{
+    width: 60px; height: 60px;
+    display: block;
+    background: url(../images/360/4.png);
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+#anquan .footer .left .flbox4 .flsp1{
+    background-position: -0px -180px; 
+}
+#anquan .footer .left .flbox5 .flsp1{
+    width: 60px; height: 60px;
+    display: block;
+    background: url(../images/360/4.png);
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+#anquan .footer .left .flbox5 .flsp1{
+    background-position: -0px -240px; 
+}
+#anquan .footer .left .flbox6 .flsp1{
+    width: 60px; height: 60px;
+    display: block;
+    background: url(../images/360/4.png);
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+#anquan .footer .left .flbox6 .flsp1{
+    background-position: -0px -300px;
+}
+#anquan .footer .left .flbox7 .flsp1{
+    width: 60px; height: 60px;
+    display: block;
+    background: url(../images/360/4.png);
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+#anquan .footer .left .flbox7 .flsp1{
+    background-position: -0px -360px;
+}
+#anquan .footer .left .flbox8 .flsp1{
+    width: 60px; height: 60px;
+    display: block;
+    background: url(../images/360/4.png);
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+#anquan .footer .left .flbox8 .flsp1{
+    background-position: -0px -420px;
+}
+
+
+#anquan .footer .left .flh3{
+    margin-top: 50px;
+    margin-left: 120px;
+    font-size: 20px;
+}
+#anquan .footer .left .fla1{
+    margin-left: 25px;
+    font-size: 12px;
+    display: inline-block;
+    width: 50px;
+    border: 1px #e5e5e5 solid;
+    text-align: center;
+    margin-top: 20px;
+
+}
+#anquan .footer .left .fla2{
+    margin-left: 25px;
+    font-size: 12px;
+    width: 50px;
+    display: inline-block;
+    text-align: center;
+    border: 1px #e5e5e5 solid;
+}
+#anquan  .footer .left .flbox2{
+    width: 100%;
+    height: 140px;
+    border: 1px solid #e5e5e5;
+}
+#anquan .footer .left .flsp21{
+    width: 26px; height: 24px;
+    display: block;
+    background: url(../images/360/5.png);
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#anquan .footer .left .flsp22{
+    width: 26px; height: 24px;
+    display: block;
+    background: url(../images/360/5.png);
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#anquan .footer .left .flsp22{
+    background-position: 0 -44px;
+}
+#anquan .footer .left .flsp23{
+    width: 26px; height: 24px;
+    display: block;
+    background: url(../images/360/5.png);
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    background-position: 0 -88px;
+}
+#anquan .footer .left .flli1{
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: block;
+    width: 60px;
+    font-size: 4px;
+    text-align: center;
+    border-right: 1px solid #e5e5e5;
+}
+#anquan .footer .left .flli11{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #70c2f8;
+    font-size: 4px;
+}
+#anquan .footer .left .flli2{
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: block;
+    width: 60px;
+    font-size: 4px;
+    text-align: center;
+    border-right: 1px solid #e5e5e5;
+}
+#anquan .footer .left .flli22{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 4px;
+    color: #9db6fe;
+}
+#anquan .footer .left .flli3{
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: block;
+    width: 65px;
+    font-size: 4px;
+    text-align: center;
+    border-right: 1px solid #e5e5e5;
+
+}
+#anquan .footer .left .flli33{
+    float: left;
+    margin-left: 10px;
+    font-size: 4px;
+    margin-top: 10px;
+    color: #ffaf6a;
+}
+
+
+
+
+
+
+#anquan .footer .right{
+    width: 600px;
+    height: 100%;
+    /* background: blue; */
+    position: absolute;
+    right: 60px;
+}
+#anquan .footer .right .frbox{
+    height: 281px;
+    width: 100%;
+    margin-top: 70px;
+    overflow: hidden;
+    background: url(../images/360/mall_top.png);
+}
+#anquan .footer .right .frbox1{
+    width: 100%;
+    height: 281px;
+    /* background: red; */
+
+}
+#anquan .footer .right .frbox1 div{
+    width: 298px;
+    height: 138px;
+    border: 1px solid #e5e5e5;
+    position: relative;
+    float: left;
+}
+#anquan .footer .right .frh3{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 14px;
+    line-height: 10px;
+}
+#anquan .footer .right .frp1{
+    margin-left: 40px;
+    color: #fc6721;
+    font-size: 12px;
+    margin-top: 20px;
+}
+#anquan .footer .right .frbox11 .frsp1{
+    width: 120px; height: 120px;
+    display: block;
+    background: url(../images/360/6.png);
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+#anquan .footer .right .frbox22 .frsp1{
+    width: 120px; height: 120px;
+    display: block;
+    background: url(../images/360/6.png);
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    background-position: -0px -120px;
+}
+#anquan .footer .right .frbox33 .frsp1{
+    width: 120px; height: 120px;
+    display: block;
+    background: url(../images/360/6.png);
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    background-position: -0px -240px;
+}
+#anquan .footer .right .frbox44 .frsp1{
+    width: 120px; height: 120px;
+    display: block;
+    background: url(../images/360/6.png);
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    background-position: -0px -360px;
+}
+
+
+
+
+
+#anquan  .footer .right .flbox2{
+    width: 100%;
+    height: 140px;
+    border: 1px solid #e5e5e5;
+}
+#anquan .footer .right .frsp21{
+    width: 26px; height: 24px;
+    display: block;
+    background: url(../images/360/5.png);
+    float: left;
+    margin-top: 10px;
+    background-position: 0 -132px;
+    margin-left: 30px;
+}
+#anquan .footer .right .frsp22{
+    width: 26px; height: 24px;
+    display: block;
+    background: url(../images/360/5.png);
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#anquan .footer .right .frsp22{
+    background-position: 0 -176px;
+}
+#anquan .footer .right .frsp23{
+    width: 30px; height: 24px;
+    display: block;
+    background: url(../images/360/5.png);
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    background-position: 0 -220px;
+}
+#anquan .footer .right .frli1{
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: block;
+    width: 60px;
+    font-size: 4px;
+    text-align: center;
+    border-right: 1px solid #e5e5e5;
+}
+#anquan .footer .right .frli11{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #83cbda;
+    font-size: 4px;
+}
+#anquan .footer .right .frli2{
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: block;
+    width: 60px;
+    font-size: 4px;
+    text-align: center;
+    border-right: 1px solid #e5e5e5;
+}
+#anquan .footer .right .frli22{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 4px;
+    color: #fea070;
+}
+#anquan .footer .right .frli3{
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: block;
+    width: 65px;
+    font-size: 4px;
+    text-align: center;
+    border-right: 1px solid #e5e5e5;
+
+}
+#anquan .footer .right .frli33{
+    float: left;
+    margin-left: 10px;
+    font-size: 4px;
+    margin-top: 10px;
+    color: #1dc96e;
+}
