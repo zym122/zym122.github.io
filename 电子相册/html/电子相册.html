@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+
+    <style>
+        body{
+            background: #ccc;
+        }
+        .box{
+            width: 430px;
+            height: 330px;
+            border: 1px white solid;
+            position: relative;
+            overflow: hidden;
+            margin:100px auto;
+
+        }
+        .box .box1{
+            position: absolute;
+            left: 0px;
+            top: 40px;
+            width: 80px;
+            height: 200px;
+            overflow: scroll;
+        }
+        .box .box2{
+            height: 100%;
+            width: 300px;
+            height: 200px;
+            border: 1px white solid;
+            position: absolute;
+            left: 100px;
+            top: 40px;
+            position: absolute;
+            overflow: hidden;
+        }
+        .box p{
+            text-align: center;
+            margin: auto;
+            position: absolute;
+            top: 10px;
+            left: 40%;
+            color: #ffffff;
+            font-size: 20px;
+
+        }
+    
+    </style>
+</head>
+<body>
+    <div class="box">
+        <p>电子相册</p>
+        <div class="box1">
+           <a href="#limg1">
+               <img class="rimg1" src="../images/c1.jpg" alt="">
+           </a> 
+           <a href="#limg2">
+               <img class="rimg2" src="../images/c2.jpg" alt="">
+           </a> 
+           <a href="#limg3">
+               <img class="rimg3" src="../images/c3.jpg" alt="">
+           </a> 
+           <a href="#limg4">
+               <img class="rimg4" src="../images/c4.jpg" alt="">
+           </a> 
+           <a href="#limg5">
+               <img class="rimg5" src="../images/c5.jpg" alt="">
+           </a> 
+           <a href="#limg6">
+               <img class="rimg6" src="../images/c6.jpg" alt="">
+           </a> 
+           <a href="#limg7">
+               <img class="rimg7" src="../images/c7.jpg" alt="">
+           </a> 
+           <a href="#limg8">
+               <img class="rimg8" src="../images/c8.jpg" alt="">
+           </a> 
+        </div>
+        <div class="box2">
+            <img id="limg1" src="../images/mn1.jpg" alt="">
+            <img id="limg2" src="../images/mn2.jpg" alt="">
+            <img id="limg3" src="../images/mn3.jpg" alt="">
+            <img id="limg4" src="../images/mn4.jpg" alt="">
+            <img id="limg5" src="../images/mn5.jpg" alt="">
+            <img id="limg6" src="../images/mn6.jpg" alt="">
+            <img id="limg7" src="../images/mn7.jpg" alt="">
+            <img id="limg8" src="../images/mn8.jpg" alt="">
+        </div>
+    </div>
+    
+</body>
+</html>
