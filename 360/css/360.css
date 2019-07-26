@@ -35,8 +35,12 @@
     width: 33%;
     float: left;
 }
-#anquan .header .headerbox .headerbox1 .hsp1{
+#anquan .header .headerbox .hsp1{
     background: url(../images/360/3.png);
+
+}
+#anquan .header .headerbox .headerbox1 .hsp1{
+    /* background: url(../images/360/3.png); */
     width: 60px;
     height: 64px;
     display: block;
@@ -44,8 +48,8 @@
     margin-top: 20px;
     float: left;
 }
-#anquan .header .headerbox .headerbox2 .hsp2{
-    background: url(../images/360/3.png);
+#anquan .header .headerbox .headerbox2 .hsp1{
+    /* background: url(../images/360/3.png); */
     width: 143px;
     height: 64px;
     display: block;
@@ -53,12 +57,12 @@
     margin-left: 70px;
     float: left;
 }
-#anquan .header .headerbox .headerbox2 .hsp2{
+#anquan .header .headerbox .headerbox2 .hsp1{
     background-position:0px 158px;
 }
 
-#anquan .header .headerbox .headerbox3 .hsp3{
-    background: url(../images/360/3.png);
+#anquan .header .headerbox .headerbox3 .hsp1{
+    /* background: url(../images/360/3.png); */
     width: 60px;
     height: 64px;
     display: block;
@@ -66,7 +70,7 @@
     margin-top: 20px;
     float: left;
 }
-#anquan .header .headerbox .headerbox3 .hsp3{
+#anquan .header .headerbox .headerbox3 .hsp1{
     background-position: 0px 78px;
 }
 #anquan .header .headerbox .hh2{
@@ -198,8 +202,12 @@
     border: 1px solid #e5e5e5;
     float: left;
 }
-#anquan .nav .nav2 .nav2box1 .nsp1{
+#anquan .nav .nav2 .nsp1{
     background: url(../images/360/1.png);
+
+}
+#anquan .nav .nav2 .nav2box1 .nsp1{
+    /* background: url(../images/360/1.png); */
     width: 26px;
     height: 26px;
     display: block;
@@ -210,7 +218,7 @@
     background-position: -24px 0px;
 }
 #anquan .nav .nav2 .nav2box2 .nsp1{
-    background: url(../images/360/1.png);
+    /* background: url(../images/360/1.png); */
     width: 26px;
     height: 26px;
     display: block;
@@ -221,7 +229,7 @@
     background-position: -48px 0px;
 }
 #anquan .nav .nav2 .nav2box3 .nsp1{
-    background: url(../images/360/1.png);
+    /* background: url(../images/360/1.png); */
     width: 26px;
     height: 26px;
     display: block;
@@ -232,7 +240,7 @@
     background-position: -71px 0px;
 }
 #anquan .nav .nav2 .nav2box4 .nsp1{
-    background: url(../images/360/1.png);
+    /* background: url(../images/360/1.png); */
     width: 26px;
     height: 26px;
     display: block;
@@ -243,7 +251,7 @@
     background-position: 52px 0px;
 }
 #anquan .nav .nav2 .nav2box5 .nsp1{
-    background: url(../images/360/1.png);
+    /* background: url(../images/360/1.png); */
     width: 26px;
     height: 26px;
     display: block;
@@ -254,7 +262,7 @@
     background-position: 26px 0px;
 }
 #anquan .nav .nav2 .nav2box6 .nsp1{
-    background: url(../images/360/1.png);
+    /* background: url(../images/360/1.png); */
     width: 26px;
     height: 26px;
     display: block;
@@ -320,13 +328,17 @@
     border: #e5e5e5 1px solid;
     float: left;
 }
+#anquan .banner .babox .bsp1{
+    background: url(../images/360/2.png);
+
+}
 #anquan .banner .babox .babox1 .bsp1{
     width: 97px; height: 91px; 
     display: block;
     float: left;
     margin-top: 22px;
     margin-left: 22px;
-    background: url(../images/360/2.png);
+    /* background: url(../images/360/2.png); */
 }
 #anquan .banner .babox .babox2 .bsp1{
     width: 100px; height: 100px;
@@ -334,7 +346,7 @@
     margin-top: 22px;
     float: left;
     margin-left: 22px;
-    background: url(../images/360/2.png);
+    /* background: url(../images/360/2.png); */
 }
 #anquan .banner .babox .babox2 .bsp1{
     background-position:  -0px -90px;
@@ -345,7 +357,7 @@
     margin-left: 22px;
     float: left;
     display: block;
-    background: url(../images/360/2.png);
+    /* background: url(../images/360/2.png); */
 }
 #anquan .banner .babox .babox3 .bsp1{
     background-position: -0px -190px;
@@ -405,10 +417,14 @@
     float: left;
     border: 1px solid #e5e5e5;
 }
+#anquan .footer .left .flsp1{
+    background: url(../images/360/4.png);
+
+}
 #anquan .footer .left .flbox1 .flsp1{
     width: 60px; height: 60px;
     display: block;
-    background: url(../images/360/4.png);
+    /* background: url(../images/360/4.png); */
     margin-left: 40px;
     margin-top: 40px;
     float: left;
@@ -416,7 +432,7 @@
 #anquan .footer .left .flbox2 .flsp1{
     width: 60px; height: 60px;
     display: block;
-    background: url(../images/360/4.png);
+    /* background: url(../images/360/4.png); */
     margin-left: 40px;
     margin-top: 40px;
     float: left;
@@ -427,7 +443,7 @@
 #anquan .footer .left .flbox3 .flsp1{
     width: 60px; height: 60px;
     display: block;
-    background: url(../images/360/4.png);
+    /* background: url(../images/360/4.png); */
     margin-left: 40px;
     margin-top: 40px;
     float: left;
@@ -438,7 +454,7 @@
 #anquan .footer .left .flbox4 .flsp1{
     width: 60px; height: 60px;
     display: block;
-    background: url(../images/360/4.png);
+    /* background: url(../images/360/4.png); */
     margin-left: 40px;
     margin-top: 40px;
     float: left;
@@ -449,7 +465,7 @@
 #anquan .footer .left .flbox5 .flsp1{
     width: 60px; height: 60px;
     display: block;
-    background: url(../images/360/4.png);
+    /* background: url(../images/360/4.png); */
     margin-left: 40px;
     margin-top: 40px;
     float: left;
@@ -460,7 +476,7 @@
 #anquan .footer .left .flbox6 .flsp1{
     width: 60px; height: 60px;
     display: block;
-    background: url(../images/360/4.png);
+    /* background: url(../images/360/4.png); */
     margin-left: 40px;
     margin-top: 40px;
     float: left;
@@ -471,7 +487,7 @@
 #anquan .footer .left .flbox7 .flsp1{
     width: 60px; height: 60px;
     display: block;
-    background: url(../images/360/4.png);
+    /* background: url(../images/360/4.png); */
     margin-left: 40px;
     margin-top: 40px;
     float: left;
@@ -482,7 +498,7 @@
 #anquan .footer .left .flbox8 .flsp1{
     width: 60px; height: 60px;
     display: block;
-    background: url(../images/360/4.png);
+    /* background: url(../images/360/4.png); */
     margin-left: 40px;
     margin-top: 40px;
     float: left;
@@ -521,28 +537,32 @@
     border: 1px solid #e5e5e5;
 }
 #anquan .footer .left .flsp21{
+    background: url(../images/360/5.png);
+
+}
+#anquan .footer .left .flul1 .flsp21{
     width: 26px; height: 24px;
     display: block;
-    background: url(../images/360/5.png);
+    /* background: url(../images/360/5.png); */
     float: left;
     margin-top: 10px;
     margin-left: 30px;
 }
-#anquan .footer .left .flsp22{
+#anquan .footer .left .flul2 .flsp21{
     width: 26px; height: 24px;
     display: block;
-    background: url(../images/360/5.png);
+    /* background: url(../images/360/5.png); */
     float: left;
     margin-top: 10px;
     margin-left: 30px;
 }
-#anquan .footer .left .flsp22{
+#anquan .footer .left .flul2 .flsp21{
     background-position: 0 -44px;
 }
-#anquan .footer .left .flsp23{
+#anquan .footer .left .flul3 .flsp21{
     width: 26px; height: 24px;
     display: block;
-    background: url(../images/360/5.png);
+    /* background: url(../images/360/5.png); */
     float: left;
     margin-top: 10px;
     margin-left: 30px;
@@ -645,10 +665,14 @@
     font-size: 12px;
     margin-top: 20px;
 }
+#anquan .footer .right .frsp1{
+    background: url(../images/360/6.png);
+
+}
 #anquan .footer .right .frbox11 .frsp1{
     width: 120px; height: 120px;
     display: block;
-    background: url(../images/360/6.png);
+    /* background: url(../images/360/6.png); */
     position: absolute;
     right: 20px;
     top: 10px;
@@ -656,7 +680,7 @@
 #anquan .footer .right .frbox22 .frsp1{
     width: 120px; height: 120px;
     display: block;
-    background: url(../images/360/6.png);
+    /* background: url(../images/360/6.png); */
     position: absolute;
     right: 20px;
     top: 10px;
@@ -665,7 +689,7 @@
 #anquan .footer .right .frbox33 .frsp1{
     width: 120px; height: 120px;
     display: block;
-    background: url(../images/360/6.png);
+    /* background: url(../images/360/6.png); */
     position: absolute;
     right: 20px;
     top: 10px;
@@ -674,7 +698,7 @@
 #anquan .footer .right .frbox44 .frsp1{
     width: 120px; height: 120px;
     display: block;
-    background: url(../images/360/6.png);
+    /* background: url(../images/360/6.png); */
     position: absolute;
     right: 20px;
     top: 10px;
@@ -691,29 +715,30 @@
     border: 1px solid #e5e5e5;
 }
 #anquan .footer .right .frsp21{
+    background: url(../images/360/5.png);
+
+}
+#anquan .footer .right .frul1 .frsp21{
     width: 26px; height: 24px;
     display: block;
-    background: url(../images/360/5.png);
+    /* background: url(../images/360/5.png); */
     float: left;
     margin-top: 10px;
     background-position: 0 -132px;
     margin-left: 30px;
 }
-#anquan .footer .right .frsp22{
+#anquan .footer .right .frul2 .frsp21{
     width: 26px; height: 24px;
     display: block;
-    background: url(../images/360/5.png);
     float: left;
+    background-position: 0 -176px;
     margin-top: 10px;
     margin-left: 30px;
 }
-#anquan .footer .right .frsp22{
-    background-position: 0 -176px;
-}
-#anquan .footer .right .frsp23{
+
+#anquan .footer .right .frul3 .frsp21{
     width: 30px; height: 24px;
     display: block;
-    background: url(../images/360/5.png);
     float: left;
     margin-top: 10px;
     margin-left: 30px;
