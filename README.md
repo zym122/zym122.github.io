@@ -5,4 +5,4 @@
 <br>
 <a href="https://zym122.github.io/360/html/360.html">360</a>
 ## day09作业
-<a href="https://zym122.github.io/%E5%B0%8F%E9%B9%BF/html/%E5%B0%8F%E9%B9%BF.html">360</a>
+<a href="https://zym122.github.io/%E5%B0%8F%E9%B9%BF/html/%E5%B0%8F%E9%B9%BF.html">小鹿</a>
