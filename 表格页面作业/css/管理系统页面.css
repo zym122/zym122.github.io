@@ -1,0 +1,213 @@
+.box {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+
+}
+/*------------top------------*/
+.box .top {
+    width: 100%;
+    height: 90px;
+    background: #7ab5e9;
+    position: relative;
+}
+.box .top .toph2{
+    font-size: 28px;
+    color: #ffffff;
+    line-height: 90px;
+    float: left;
+    margin-left: 30px;
+}
+.box .top .topbox1{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 786px;
+    /* background: #000; */
+}
+.box .top .topbox1 .topli{
+    float: left;
+    display: block;
+    height: 100%;
+    width: 90px;
+    margin-right: 20px;
+    text-align: center;
+}
+.box .top .topbox1 .topli:hover{
+    background: url(../images/libj.png);
+    
+}
+
+
+
+
+
+
+
+/*------------bottom------------*/
+
+.box .bottom {
+    width: 100%;
+    position: absolute;
+    top: 90px;
+    bottom: 0px;
+}
+/*------------left------------*/
+
+.box .bottom .left {
+    width: 200px;
+    height: 100%;
+    background: #417ec8;
+}
+.box .bottom .left .lefth2{
+    width: 100%;
+    height: 30px;
+    background: url(../images/e_01.jpg);
+}
+.box .bottom .left .leftli1{
+    color: #ffffff;
+}
+.box .bottom .left .leftsp1{
+    margin-left: 40px;
+    padding-right: 0;
+    float: left;
+    line-height: 34px;
+}
+.box .bottom .left .leftsp2{
+    line-height: 34px;
+    height: 34px;
+    display: block;
+    margin-left: 60px;
+}
+.box .bottom .left .leftli2{
+    color: #000;
+    text-align: center;
+    display: block;
+    height: 34px;
+    line-height: 34px;
+    display: none;
+}
+
+.box .bottom .left .leftli1:hover .leftli2{
+    display: block;
+}
+.box .bottom .left .leftli1:hover{
+    background: url(../images/left_hover.jpg)no-repeat;
+}
+.box .bottom .left .leftli1:hover .leftsp2{
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+/*------------right------------*/
+
+
+.box .bottom .right {
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    right: 0px;
+    bottom: 0px;
+    background: #ffffff;
+
+}
+.box .bottom .right .rheader{
+    height: 24px;
+    border-bottom: 1px solid #e3e3e3;
+}
+.box .bottom .right .rheader .rha1{
+    display: block;
+    float: left;
+    height: 24px;
+    line-height: 24px;
+}
+
+.box .bottom .right .rheader .rhsp1{
+    background: url(../images/home.jpg)no-repeat center center;
+    height: 100%;
+    width: 24px;
+    display: block;
+    float: left;
+    margin-left: 20px;
+}
+.box .bottom .right .rbody{
+    height: 50px;
+    /* border-bottom: 1px solid rebeccapurple; */
+    /* width: 100%; */
+    /* background: #000; */
+}
+.box .bottom .right .rbody .rbsp1{
+    background: url(../images/seacth.jpg)no-repeat center center;
+    height: 100%;
+    width: 24px;
+    display: block;
+    float: left;
+    margin-left: 25px;
+}
+.box .bottom .right .rbody .rbsp2{
+    background: url(../images/t.jpg)no-repeat center center;
+    height: 100%;
+    width: 24px;
+    display: block;
+    float: right;
+    margin-right: 20px;
+}
+.box .bottom .right .rbody .rbi1,.rbs1{
+    border: 1px solid black;
+    height: 25px;
+    width: 121px;
+}
+.box .bottom .right .rbody .rbi2{
+    width: 60px;
+    height: 24px;
+    text-align: center;
+    line-height: 24px;
+    margin-left: 20px;
+}
+.box .bottom .right .rbody .rbl1{
+    margin-left: 20px;
+    line-height: 50px;  
+}
+.box .bottom .right .rfooter .rft1{
+    width: 100%;
+    height: 375px;
+    border: #000 1px solid;
+    margin:50px auto;
+    text-align: center;
+}
+.box .bottom .right .rfooter tr:nth-child(2n+1){
+    background: #f1f1f1;
+}
+.box .bottom .right .rfooter .rfsp{
+    margin-left: 20px;
+}
+.box .bottom .right .rfooter .rful{
+    margin-right: 40px;
+}
+.box .bottom .right .rfooter .rfli{
+    margin-right: 20px;
+}
+.box .bottom .right .rfooter .rfa2{
+    display: block;
+    border: 1px solid blue;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+}
+.box .bottom .right .rfooter .rfa2:hover{
+    background: blue;
+}
+.box .bottom .right .rfooter .rfa2:hover{
+    color: #ffffff;
+}
