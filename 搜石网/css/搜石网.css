@@ -1,0 +1,343 @@
+#soushi{
+    width: 100%;
+}
+/*----------header----------*/
+#soushi .header{
+    width: 1350px;
+    margin: auto;
+    height: 30px;
+    /* background: red; */
+}
+#soushi .header .hul1{
+    float: left;
+    margin-left: 50px;
+}
+#soushi .header .hli1{
+    float: left;
+    line-height: 30px;
+    margin-right: 50px;
+}
+#soushi .header .hul2{
+    float: right;
+    margin-right: 50px;
+}
+#soushi .header .hli2{
+    float: left;
+    line-height: 30px;
+    margin-right: 50px;
+    position: relative;
+}
+#soushi .header .hul2 .hli2 .ha2{
+    position: relative;
+}
+#soushi .header .hul2 .hli2 .ha2::after{
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border: 5px solid transparent;
+    border-top-color: black;
+    position: absolute;
+    right: -20px;
+    top: 10px;
+}
+#soushi .header  .ha1:hover{
+    color: red;
+}
+
+
+
+
+/*----------nav----------*/
+
+#soushi .nav{
+    width: 1350px;
+    margin: auto;
+    height: 190px;
+    /* background: orange; */
+    overflow: hidden;
+    position: relative;
+}
+#soushi .nav .nh2{
+    margin-left: 60px;
+    margin-top: 30px;
+    float: left;
+}
+#soushi .nav .nbox{
+    margin-top: 30px;
+    float: right;
+    margin-right: 200px;
+}
+#soushi .nav .nbox .ninput1{
+    width: 490px;
+    height: 40px;
+    border: 1px solid #ff6000;
+}
+#soushi .nav .nbox .nbt1{
+    width: 100px;
+    height: 40px;
+    background: #ff6000;
+    color: white;
+}
+#soushi .nav .nbox .nli1,.nli2{
+    float: left;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+#soushi .nav .nbox .nli2 .na1{
+    color: #ccc;
+    font-size: 12px;
+    
+}
+#soushi .nav .nbox1{
+    width: 1080px;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    /* background: #000; */
+}
+#soushi .nav .nbox1 .nli3{
+    width: 200px;
+    height: 40px;
+    background: #0095d5;
+    color: white;
+    line-height: 40px;
+    text-align: center;
+    margin-left: 60px;
+    position: relative;
+}
+#soushi .nav .nbox1 .nli4{
+    height: 40px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 84px;
+}
+#soushi .nav .nbox1 .nsp2{
+    position: absolute;
+    top: -15px;
+    right: 38%;
+}
+
+
+/*----------banner----------*/
+
+#soushi .banner{
+    width: 1350px;
+    margin: auto;
+    height: 430px;
+    background: #f4f4f4;
+}
+#soushi .banner .brbox{
+    width: 200px;
+    height: 100%;
+    background: #ffffff;
+    margin-left: 60px;
+    /* overflow: hidden; */
+}
+#soushi .banner .brbox .bli1{
+    width: 100%;
+    height: 33%;
+    /* background: #ccc; */
+    overflow: hidden;
+}
+#soushi .banner .brbox .bsp1,.bsp11,.bsp111{
+    background: url(../images/icon3.png)no-repeat;
+
+}
+#soushi .banner .brbox .bsp1,.bsp11,.bsp111{
+    width: 120px;
+    display: block;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#soushi .banner .brbox .bsp2{
+    margin-left: 30px;
+    color: #9999b2;
+    font-size: 15px;
+}
+#soushi .banner .brbox .bsp3{
+    margin-left: 35px;
+    font-size: 14px;
+}
+#soushi .banner .brbox .bul1{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#soushi .banner .brbox .bsp11{
+    background-position: 0 -28px;
+}
+#soushi .banner .brbox .bsp111{
+    background-position: 0 -56px;
+}
+
+#soushi .banner .bul2{
+    display: block;
+    /* background: #000; */
+    left: 200px;
+    background-color: white;
+    height: 100%;
+    top: 0px;
+    width: 400px;
+    display: none;
+    position: absolute;
+}
+#soushi .banner .bli2{
+    /* position: absolute; */
+    margin-left: 30px;
+    left: 200px;
+    top: 0px;
+    float: left;
+}
+#soushi .banner .bul1 .bli1:hover .bul2{
+    display: block;
+}
+
+
+
+#soushi .banner .bmbox{
+    width: 830px;
+    height: 100%;
+    background: url(../images/banner.jpg)no-repeat center center;
+}
+
+
+
+
+#soushi .banner .blbox{
+    width: 200px;
+    height: 100%;
+    background: #ffffff;
+}
+#soushi .banner .blbox .blh2{
+    margin-top: 50px;
+    text-align: center;
+}
+#soushi .banner .blbox .blh3{
+    text-align: center;
+    margin-top: 20px;
+}
+#soushi .banner .blbox .blip1,.blip2{
+    width: 70px;
+    height: 25px;
+    border: 1px solid #ff6000;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+    line-height: 25px;
+}
+#soushi .banner .blbox .blul1{
+    position: relative;
+    top: 20px;
+}
+#soushi .banner .blbox .bla{
+    display: block;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+}
+
+#soushi .banner .blbox .blip1{
+    background: #ff6000;
+    color: #fff;
+}
+#soushi .banner .blbox .blul2{
+    position: absolute;
+    top: 50px;
+    left: 15px;
+}
+#soushi .banner .blbox .bla:hover{
+    border-bottom: 2px solid #ff6000;
+}
+
+
+#soushi .banner .blbox .blli2{
+    display: none;
+    height: 30px;
+    line-height: 30px;
+}
+#soushi .banner .blbox .blli1:hover .blli2 {
+    display: block;
+}
+
+/*----------main1----------*/
+
+#soushi .main1{
+    width: 1350px;
+    margin: auto;
+    height: 800px;
+    /* background: green; */
+}
+#soushi .main1 .m1tbox{
+    height: 100px;
+    width: 100%;
+    /* background: #000; */
+}
+#soushi .main1 .m1tbox .m1li1{
+    margin-left: 180px;
+    margin-top: 40px;
+}
+#soushi .main1 .m1tbox .m1li1 .m1sp1{
+    font-size: 18px;
+    color: #ff6000;
+}
+#soushi .main1 .m1tbox .m1li1 .m1sp2{
+    font-size: 12px;
+    color: #999999;
+    margin-left: 20px;
+}
+
+#soushi .main1 .m1rbox{
+    width: 240px;
+    height: 610px;
+    background: url(../images/ad.png)no-repeat;
+    background-size: 100% 100%;
+    margin-top: 10px;
+    float: left;
+}
+#soushi .main1 .m1lbox{
+    width: 990px;
+    height: 620px;
+    margin-top: 10px;
+    margin-left: 20px;
+    /* background: #000; */
+    float: left;
+}
+#soushi .main1 .m1lbox .m1lbox1{
+    width: 230px;
+    height: 300px;
+    background: #000;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+/*----------main2----------*/
+
+#soushi .main2{
+    width: 1350px;
+    margin: auto;
+    height: 750px;
+    background: skyblue;
+}
+
+
+
+
+/*----------footer----------*/
+
+#soushi .footer{
+    width: 1350px;
+    margin: auto;
+    height: 420px;
+    background: blue;
+}
