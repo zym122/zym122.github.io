@@ -11,4 +11,4 @@
 ## day11
 <a href="https://zym122.github.io/bg.html">八卦图</a>
 ## day12作业
-<a href="https://zym122.github.io/%E6%90%9C%E7%9F%B3%E7%BD%91/html/%E6%90%9C%E7%9F%B3%E7%BD%91.html">八卦图</a>
+<a href="https://zym122.github.io/%E6%90%9C%E7%9F%B3%E7%BD%91/html/%E6%90%9C%E7%9F%B3%E7%BD%91.html">搜石网</a>
