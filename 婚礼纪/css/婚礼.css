@@ -1,0 +1,277 @@
+header{
+    width: 100%;
+    height: 320px;
+    background: url(../images/bg.png);
+    overflow: hidden;
+}
+h2{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+.set1{
+    width: 1200px;
+    height: 250px;
+    background: #fff;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 180px;
+    margin: auto;
+}
+.ul1{
+    height: 100%;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-around;
+    align-items: center;
+}
+/* li{
+    height:  100%;
+} */
+.sp1,.sp2{
+    background: url(../images/CSS\ Satyr.png);
+
+}
+ .sp1{
+    width: 72px;
+    height: 72px;
+    display: block;
+}
+ .sp2{
+    width: 72px;
+    height: 72px;
+    display: block;
+    border-radius: 50%;
+    border: 50px solid red;
+    background-color: red;
+    background-position:-66px 0;
+    display: none;
+}
+.p1{
+    text-align: center;
+    margin-top: 30px;
+}
+.li1:hover .sp1{
+    display: none;
+}
+.li1:hover .sp2{
+    display: block;
+}
+.li2:hover .sp1{
+    display: none;
+}
+.li2:hover .sp2{
+    display: block;
+}
+.li3:hover .sp1{
+    display: none;
+}
+.li3:hover .sp2{
+    display: block;
+}
+.li4:hover .sp1{
+    display: none;
+}
+.li4:hover .sp2{
+    display: block;
+}
+.li5:hover .sp1{
+    display: none;
+}
+.li5:hover .sp2{
+    display: block;
+}
+.li6:hover .sp1{
+    display: none;
+}
+.li6:hover .sp2{
+    display: block;
+}
+.li7:hover .sp1{
+    display: none;
+}
+.li7:hover .sp2{
+    display: block;
+}
+.li8:hover .sp1{
+    display: none;
+}
+.li8:hover .sp2{
+    display: block;
+}
+.li2 .sp1{
+    background-position: -144px 0;
+}
+.li3 .sp1{
+    background-position: -288px 0;
+}
+.li4 .sp1{
+    background-position: -432px 0;
+}
+.li5 .sp1{
+    background-position: -576px 0;
+}
+.li6 .sp1{
+    background-position: -720px 0;
+}
+.li7 .sp1{
+    background-position:  -864px 0;
+}
+.li8 .sp1{
+    background-position: -1008px 0;
+}
+.li2 .sp2{
+    background-position: -216px 0;
+}
+.li3 .sp2{
+    background-position: -360px 0;
+}
+.li4 .sp2{
+    background-position: -504px 0;
+}
+.li5 .sp2{
+    background-position: -648px 0;
+}
+.li6 .sp2{
+    background-position: -792px 0;
+}
+.li7 .sp2{
+    background-position: -936px 0;
+}
+.li8 .sp2{
+    background-position: -1080px 0;
+}
+
+main{
+    width: 100%;
+    height: 510px;
+    /* border: 1px solid red; */
+    margin-top: 180px;
+}
+.set2{
+    width: 1200px;
+    height: 200px;
+    /* border: 1px solid rebeccapurple; */
+    margin: auto;
+    position: relative;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.set3{
+    height: 100%;
+    width: 226px;
+    /* border: 1px solid black; */
+    position: relative;
+    box-shadow: 5px 0 10px ;
+}
+.p2{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.set4{
+    width: 360px;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 330px;
+}
+.msp{
+    width: 25px;
+    height: 25px;
+    display: block;
+    background: url(../images/1.png);
+}
+.ul2{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+footer{
+    width: 100%;
+    height: 700px;
+    border: 1px solid rebeccapurple;
+    box-sizing: border-box;
+    position: relative;
+}
+.set5{
+    width: 450px;
+    height: 50px;
+    margin:10px auto;
+    /* border: 1px solid red; */
+}
+.set5 ul{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.set5 li:nth-child(2n){
+    color: #ccc;
+}
+.set6{
+    width: 1200px;
+    height: 286px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.set7{
+    height: 100%;
+    width: 284px;
+    position: relative;
+}
+.set8{
+    width: 255px;
+    height: 115px;
+    position: absolute;
+    bottom: -80px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.set8 h3{
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.set8 ul{
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.set8 li{
+    height: 54px;
+    line-height: 54px;
+}
+.set9{
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    color: #fff;
+    background: red;
+    border-radius: 30px;
+}
+.set9 p{
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+}
