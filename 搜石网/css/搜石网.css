@@ -1,5 +1,6 @@
 #soushi{
     width: 100%;
+    background: #f4f4f4;
 }
 /*----------header----------*/
 #soushi .header{
@@ -294,7 +295,7 @@
 #soushi .main1 .m1rbox{
     width: 240px;
     height: 610px;
-    background: url(../images/ad.png)no-repeat;
+    background: url(../images/2.png)no-repeat;
     background-size: 100% 100%;
     margin-top: 10px;
     float: left;
@@ -310,10 +311,43 @@
 #soushi .main1 .m1lbox .m1lbox1{
     width: 230px;
     height: 300px;
-    background: #000;
+    /* background: #000; */
     float: left;
     margin-left: 10px;
     margin-top: 10px;
+    position: relative;
+}
+#soushi .main1 .m1lbox .m1lbox1:hover{
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+
+#soushi .main1 .m1lbox .m1lbox1 .m1img{
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#soushi .main1 .m1lbox .m1lbox1 .m1ul2{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+#soushi .main1 .m1lbox .m1lbox1 .m1li2{
+    margin-top:10px;
+}
+#soushi .main1 .m1lbox .m1lbox1 .m1li2 .m1sp1{
+    font-size: 24px;
+    font-weight: bold;
+}
+#soushi .main1 .m1lbox .m1lbox1 .m1li2 .m1sp2{
+    font-size: 12px;
+    color: #ccc;
+}
+#soushi .main1 .m1lbox .m1lbox1 .m1li2 .m1sp3{
+    font-size: 12px;
+    color: #ff6000;
 }
 
 
@@ -326,18 +360,81 @@
 #soushi .main2{
     width: 1350px;
     margin: auto;
-    height: 750px;
-    background: skyblue;
+    height: 350px;
+    background: #f4f4f4;
+}
+#soushi .main2 .m2box1{
+    width: 1350px;
+    height: 310px;
+    /* border: 1px solid red; */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+#soushi .main2 .m2box1 .m2box1l{
+    height: 100%;
+    width: 235px;
+    background: url(../images/ad.png);
+}
+#soushi .main2 .m2box1 .m2box1m .m2mh2{
+    position: absolute;
+    top: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#soushi .main2 .m2box1 .m2box1m{
+    height: 100%;
+    width: 650px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: #fff;    
+    /* background: #000; */
+}
+#soushi .main2 .m2box1 .m2box1m .m2mul{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 100%;
+}
+#soushi .main2 .m2box1 .m2box1m  .m2msp1{
+    width: 80px;
+    height: 80px;
+    display: block;
+    background: url(../images/icon1.png);
+}
+#soushi .main2 .m2box1 .m2box1m .m2msp2{
+    display: block;
+    text-align: center;
+}
+#soushi .main2 .m2box1 .m2box1m .m2mli2 .m2msp1{
+    background-position: 0 -90px;
+}
+#soushi .main2 .m2box1 .m2box1m .m2mli3 .m2msp1{
+    background-position: 0 -180px;
+}
+#soushi .main2 .m2box1 .m2box1m .m2mli4 .m2msp1{
+    background-position: 0 -270px;
+}
+#soushi .main2 .m2box1 .m2box1m .m2mli5 .m2msp1{
+    background-position: 0 -360px;
 }
 
 
 
-
-/*----------footer----------*/
-
-#soushi .footer{
-    width: 1350px;
-    margin: auto;
-    height: 420px;
-    background: blue;
+#soushi .main2 .m2box1 .m2box1r{
+    height: 100%;
+    width: 320px;
+    background: #fff;
+    /* background: #000; */
+}
+#soushi .main2 .m2box1 .m2rli{
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#soushi .main2 .m2box1 .m2rh2{
+    font-size: 24px;
+    font-weight: bold;
 }
