@@ -9,4 +9,4 @@
 ## day10作业
 <a href="https://zym122.github.io/%E8%A1%A8%E6%A0%BC%E9%A1%B5%E9%9D%A2%E4%BD%9C%E4%B8%9A/html/%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E9%A1%B5%E9%9D%A2.html">管理页面</a>
 ## day11
-<a href="https://zym122.github.io/bg.htmll">八卦图</a>
+<a href="https://zym122.github.io/bg.html">八卦图</a>
