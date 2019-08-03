@@ -14,3 +14,8 @@
 <a href="https://zym122.github.io/%E6%90%9C%E7%9F%B3%E7%BD%91/html/%E6%90%9C%E7%9F%B3%E7%BD%91.html">搜石网</a>
 ## day13作业
 <a href="https://zym122.github.io/%E5%A9%9A%E7%A4%BC%E7%BA%AA/html/%E5%A9%9A%E7%A4%BC.html">婚礼纪</a>
+## day14作业
+<a href="https://zym122.github.io/%E5%BC%80%E6%BA%90%E5%8D%9A%E5%AE%A2%E9%A1%B5%E9%9D%A2/html/%E5%BC%80%E6%BA%90.html">开源页面</a>
+## 周末作业
+<a href="https://zym122.github.io/allpyra/html/ALLPYRA.html">开源页面</a>
+
