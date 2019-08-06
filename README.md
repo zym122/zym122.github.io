@@ -21,3 +21,6 @@
 ## day15作业
 <a href="https://zym122.github.io/%E9%A5%BF%E4%BA%86%E4%B9%88/html/faxian.html">a发现</a>
 <a href="https://zym122.github.io/%E9%A5%BF%E4%BA%86%E4%B9%88/html/shouye.html">首页</a>
+## day16作业
+<a href="https://zym122.github.io/%E5%A9%9A%E7%A4%BC%E7%BA%AA-%E7%A7%BB%E5%8A%A8%E7%AB%AF/html/%E5%A9%9A%E7%A4%BC%E7%BA%AA.html">婚礼纪-移动端</a>
+
